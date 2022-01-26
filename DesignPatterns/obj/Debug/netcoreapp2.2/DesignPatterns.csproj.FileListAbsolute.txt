@@ -1,0 +1,13 @@
+C:\dev\arquitetura-software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+C:\dev\arquitetura-software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+C:\dev\arquitetura-software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+C:\dev\arquitetura-software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\dev\arquitetura-software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.AssemblyReference.cache
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb
+C:\dev\arquitetura-software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.genruntimeconfig.cache
